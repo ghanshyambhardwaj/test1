@@ -18,4 +18,306 @@ public class Doctor {
     private int id;
     private String name;
     private String specialist;
+    
+    System.
+}
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
+}
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Entity
+public class Doctor {
+    @Id
+    private int id;
+    private String name;
+    private String specialist;
+    
+    System.
 }
